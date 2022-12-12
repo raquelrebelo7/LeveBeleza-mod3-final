@@ -1,0 +1,30 @@
+.delete-card {
+    margin-top: 50px;
+    background-color: #fff;
+}
+.delete-content {
+    padding: 2px 16px;
+}
+
+.delete-content p, h3 {
+    color: black;
+    padding: 10px;
+}
+
+.delete-content h2{
+    color: black;
+    text-align: center;
+    margin: 0px;
+}
+
+.btn-delete {
+    margin: 15px 15px 0 15px;
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.red {background-color: #f44336;} /* Red */ 
+.red:hover {background: #da190b;}

@@ -1,0 +1,85 @@
+{
+  "cortes": [
+    {
+      "name": "Chris",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Chanel com franja"
+    },
+    {
+      "id": 3,
+      "name": "Blunt cut"
+    },
+    {
+      "id": 4,
+      "name": "Cortes degradê"
+    },
+    {
+      "id": 5,
+      "name": "Long bob médio"
+    },
+    {
+      "id": 6,
+      "name": "Buzzcut"
+    },
+    {
+      "id": 7,
+      "name": "Pixie"
+    },
+    {
+      "id": 8,
+      "name": "Sidecut"
+    }
+  ],
+  "colorometria-capilar": [
+    {
+      "id": 1,
+      "name": "Morena iluminada"
+    },
+    {
+      "id": 2,
+      "name": "Ruivo intenso"
+    },
+    {
+      "id": 3,
+      "name": "Loiro"
+    },
+    {
+      "id": 4,
+      "name": "preto"
+    }
+  ],
+  "pacotes": [
+    {
+      "id": 1,
+      "comprimento": "cabelo curto",
+      "combo": "coloração + progressiva + corte + banho de brilho = 200r$"
+    },
+    {
+      "id": 2,
+      "comprimento": "cabelo médio",
+      "combo": "coloração + progressiva + corte + banho de brilho = 300r$ "
+    },
+    {
+      "id": 3,
+      "comprimento": "cabelo longo",
+      "combo": "coloração + progressiva + corte + banho de brilho = 500r$ "
+    },
+    {
+      "id": 4,
+      "comprimento": "crespo/cacheado",
+      "combo": "coloração + corte + soltura de cachos = 200r$"
+    }
+  ],
+  "agendamento": [
+    {
+      "nome": "Fabiano Almeida",
+      "email": "fabiano",
+      "horario": "13:30",
+      "comentario": "dasdasa",
+      "id": 1
+    }
+  ]
+}
